@@ -1,6 +1,8 @@
 @import "tailwindcss";
 
 :root {
+  --hive-gold: #D4AF37;
+
   --amber: #f59e0b;
 }
 
